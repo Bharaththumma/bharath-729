@@ -1,0 +1,25 @@
+Sr. No States Capitals
+1 Andhra Pradesh Hyderabad ( newly proposed Amaravati )
+2 Arunachal Pradesh Itanagar
+3 Assam Dispur
+4 Bihar Patna
+5 Chhattisgarh Raipur
+6 Goa Panaji
+7 Gujarat Gandhinagar
+8 Haryana Chandigarh
+9 Himachal Pradesh Shimla
+10 Jammu & Kashmir Jammu (Winter Capital) & Srinagar (Summer Capital)
+11 Jharkhand Ranchi
+12 Karnataka Bengaluru
+13 Kerala Thiruvananthapuram
+14 Madhya Pradesh Bhopal
+15 Maharashtra Mumbai
+16 Manipur Imphal
+17 Meghalaya Shillong
+18 Mizoram Aizawl
+19 Nagaland Kohima
+20 Orissa Bhubaneshwar
+21 Punjab Chandigarh
+22 Rajasthan Jaipur
+23 Sikkim Gangtok
+24 Tamil Nadu Chennai
